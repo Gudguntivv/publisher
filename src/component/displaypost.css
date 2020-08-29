@@ -1,0 +1,6 @@
+.display{
+    width: 100%;
+    background-image: url("./photo.jpg");
+    text-align: center;
+    font-size: 60px;
+}
